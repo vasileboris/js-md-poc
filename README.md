@@ -1,1 +1,1 @@
-# js-md-poc
+Markdown POC in JavaScript
